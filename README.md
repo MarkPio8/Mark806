@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @marekreper806
+- 👋 Hi, I’m @Mark806
 - 👀 I’m interested in data science.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on different based on python projects.
